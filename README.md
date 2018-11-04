@@ -1,0 +1,1 @@
+auguryx_frontend
